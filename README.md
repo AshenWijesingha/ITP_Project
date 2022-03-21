@@ -8,7 +8,7 @@ Please go under edit and edit this file as needed for your project
 ### Member 4 - IT20666460 - Ramanayaka R. R. T. (RaveeshaRamanayaka)
 ### Member 5 - IT20651756 - Karunathilake D. N. M. (dnmadhawa)
 ### Member 6 - IT20651060 - Sirikumara K. D. T. M. (it20651060)
-### Member 7 - IT20647582 - Bandara T. W. M. I. P. S. (Ireshaprabodhani)
+### Member 7 - IT20647582 - Bandara T. W. M. I. P. S. (Ireshaprabodhani) <this is mine>
 ### Member 8 - IT20647278 - Udeshika P. K. I. (Ishaniudeshika)
 
 #### Brief Description of Project : 
